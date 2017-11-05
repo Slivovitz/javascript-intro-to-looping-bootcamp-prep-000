@@ -3,6 +3,6 @@ function forLoop (array; let i = 0; i < 25; i++) {
     console.log("I am 1 strange loop.")
   }
   else {
-    console.log("I am ${i} strange loops")
+    console.log(`I am ${i} strange loops``)
   }
 }
